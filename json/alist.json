@@ -3,7 +3,11 @@
   "drives": [
     {
       "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "server": "192.168.2.1:5678"
+    },
+    {
+      "name": "istores",
+      "server": "192.168.2.1:5244"
     },
     {
       "name": "觸光",
